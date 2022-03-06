@@ -1,0 +1,32 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg160351" version="1.1" viewBox="481.17 306.18 241.1 155.77">
+  <metadata id="metadata160357">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs160355"/>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient2-logo-1470c9d1-5f31-479f-89a6-1fec94ef760e">
+    <stop id="stop160332" stop-opacity="1" stop-color="#ffffff" offset="0%"/>
+    <stop id="stop160334" stop-opacity="1" stop-color="#000000" offset="100%"/>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%" id="3d_gradient3-logo-1470c9d1-5f31-479f-89a6-1fec94ef760e">
+    <stop id="stop160337" stop-opacity="1" stop-color="#ffffff" offset="0%"/>
+    <stop id="stop160339" stop-opacity="1" stop-color="#cccccc" offset="50%"/>
+    <stop id="stop160341" stop-opacity="1" stop-color="#000000" offset="100%"/>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" style="display: none;" x="272" y="144" width="480" height="480" transform="translate(0 0)"/>
+    <g id="logo-center" transform="translate(321.6804999999999 0)">
+      <image xlink:href="" id="icon_container" style="display: none;" x="0" y="0"/>
+      <g id="slogan" style="font-style:normal;font-weight:700;font-size:32px;line-height:1;font-family:'Comfortaa Bold Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle" transform="translate(0 0)"/>
+      <g id="title" style="font-style:normal;font-weight:normal;font-size:72px;line-height:1;font-family:'Brandmark Sans 16 Color Shadow';font-variant-ligatures:normal;text-align:center;text-anchor:middle" transform="translate(0 0)">
+        <g id="path160360" aria-label="L" transform="translate(0 358.48) translate(159.5 -50.07999999999999) scale(3) translate(-472.71894 50.4)"> <path class="c1" d="M96.9,114.4h21.7l-1,10.8H95.9L96.9,114.4l-1,10.8H81.5L86,74.8h14.4L96.9,114.4z" transform="translate(391.21894 -125.2)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#0eaa13" stroke="#0eaa13"/> <linearGradient id="fe170b18-6929-426f-b6d2-442484e7756f" gradientUnits="userSpaceOnUse" x1="96.24004" y1="-513.86749" x2="118.12885" y2="-517.72705" gradientTransform="matrix(1 0 0 -1 0 -396)"> <stop offset="0.00194" style="stop-color:#000000;stop-opacity:0.8"/> <stop offset="0.6213" style="stop-color:#000000;stop-opacity:0"/> </linearGradient> <path class="highlight" fill="url(#fe170b18-6929-426f-b6d2-442484e7756f)" d="M117.5,125.2H95.9l0.9-10.8h21.7L117.5,125.2z" transform="translate(391.21894 -125.2)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" opacity="0.63"/> </g>
+        <g id="path160362" aria-label="S" transform="translate(0 358.48) translate(285.9770000000002 -52.23999999999999) scale(3) translate(-511.87794 51.12)"> <path class="c1" d="M99.6,89.1c0,6.2,19.3,4.9,19.3,19.7c0,16-18.9,17.2-23.2,17.2c-2.3,0-10-0.7-14.8-2.7l1.2-13.8 c4.9,3,9.7,5.3,13.8,5.3c4.2,0,5.7-2,5.7-3.6c0-7.8-18.7-4-18.7-20.2c0-12.8,14.2-16.9,21.6-16.9c7.1,0,10.3,0.8,14.6,1.9 l-1.2,13.8c0,0-7.6-4.5-12.3-4.5C102,85.3,99.6,86.8,99.6,89.1z" transform="translate(430.97794 -125.22)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#0eaa13" stroke="#0eaa13"/> <linearGradient id="9479eff4-eb5c-4d32-9611-b4db1325c86e" gradientUnits="userSpaceOnUse" x1="99.93118" y1="-481.29999" x2="99.93118" y2="-496.14978" gradientTransform="matrix(1 0 0 -1 0 -396)"> <stop offset="0.2228" style="stop-color:#000000;stop-opacity:0.8"/> <stop offset="0.5404" style="stop-color:#000000;stop-opacity:0.2925"/> <stop offset="0.7684" style="stop-color:#000000;stop-opacity:0"/> </linearGradient> <path class="highlight" fill="url(#9479eff4-eb5c-4d32-9611-b4db1325c86e)" d="M115.7,100.1H86c0,0-9.5-14.8,14.7-14.8h4.9c-3.6,0-6,1.5-6,3.8C99.6,93.7,110.2,94.2,115.7,100.1z" transform="translate(430.97794 -125.22)" stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" opacity="0.63"/> </g>
+        </g>
+      
+    </g>
+  </g>
+</svg>
